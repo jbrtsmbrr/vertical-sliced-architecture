@@ -1,0 +1,1 @@
+export interface UserId extends String {}
